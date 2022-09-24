@@ -1,3 +1,3 @@
-module github.com/YonezawaYukar/satori
+module satori
 
 go 1.19
